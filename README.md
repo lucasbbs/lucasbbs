@@ -1,8 +1,5 @@
-<style type="text/css" rel="stylesheet">
-* { color: red; }
-</style>
 <div align='center'>
-    <img src='https://www.kindpng.com/picc/b/704-7041009_hacker-png.png' height='128px' weidth'128px'><br>
+    <img src='https://github.com/lucasbbs/lucasbbs/assets/45081920/30ce63db-ae18-49ea-9abd-dd98ef62087e'><br>
     <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&height=100&lines=Hello+Friend%2C;I+am+a+Full+Stack+Cloud+Engineer;at+Goco%2C+Denmark" alt="Typing SVG" />
 </div>
 
