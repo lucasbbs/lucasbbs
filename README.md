@@ -4,11 +4,14 @@
     <br/>
     <p align='center'>
   
-  <a href="https://www.linkedin.com/in/lucas-breno-noronha-braga/">
+  <a target='_blank' href="https://www.linkedin.com/in/lucas-breno-noronha-braga/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://vk.com/lucasbbs">
+  <a target='_blank' href="https://vk.com/lucasbbs">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />            
+  </a>&nbsp;&nbsp;
+  <a target='_blank' href="https://wa.me/556183499994?text=Hello,+Lucas,">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />            
   </a>&nbsp;&nbsp;
   
 </p>
