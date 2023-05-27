@@ -72,6 +72,6 @@ Since I started working at Goco, my overall working hours accounts for [![wakati
 
 <div align="center">
   <a href="https://github.com/lucasbbs">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasbbs&show_icons=true&theme=react&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasbbs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbbs&layout=compact&langs_count=10&theme=react&bg_color=0D1117"/>
 </div>
