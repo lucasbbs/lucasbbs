@@ -13,6 +13,10 @@
   <a target='_blank' href="https://wa.me/556183499994?text=Hello,+Lucas,">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />            
   </a>&nbsp;&nbsp;
+  <a href='mailto:lucasbbs@live.fr?subject=Hello,%20Lucas&body=Hello%20there,%0D%0A' target='_blank'>
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+      
   
 </p>
 </div>
