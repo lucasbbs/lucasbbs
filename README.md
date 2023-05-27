@@ -96,11 +96,14 @@
   </details>
 <details>
   <summary>Projects Statiscs</summary>
-    <table>
+    <table> 
       <tr><th>Project</th><th>Time Spent in the current project</th></tr>
       <tr><td>Geekster Teacher Frontend</td><td><img src="https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4/project/273ef898-28ea-4fa3-b790-960ba0b4d963.svg" /></td></tr>
       <tr><td>Geekster Backend</td><td><img src="https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4/project/9f279e07-2e11-4b31-8bb6-65b18ed7087b.svg"/></td></tr>
       <tr><td>Geekster Student Frontend</td><td><img src="https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4/project/8725f481-3f0c-4af1-8384-abe71e1e9d7b.svg"/></td>  </tr>
+      <tr><td>Adept Time Frontend</td><td><img src="https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4/project/b2acf662-7510-4fb8-9fea-43e08dd04f8a.svg"/></td></tr>
+      <tr><td>Adept Time Backend</td><td><img src="https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4/project/d4c32d65-72fb-4fc9-ad2e-229e2c8709aa.svg"/></td></tr>
+      <tr><td>Head Hunter Social Backend</td><td><img src="https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4/project/b53fd1c8-edaa-4a2f-b91d-bd2ec42d8503.svg"/></td></tr>
     </table>
 
     Since I started working at Goco, my overall working hours accounts for [![wakatime](https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4.svg)](https://wakatime.com/@9650e143-10c0-40dd-92a2-cf7e682e7fa4)
