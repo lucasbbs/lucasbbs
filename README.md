@@ -13,7 +13,7 @@
   <a target='_blank' href="https://wa.me/556183499994?text=Hello,+Lucas,">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />            
   </a>&nbsp;&nbsp;
-  <a href='mailto:lucasbbs@live.fr?subject=Hello,%20Lucas&body=Hello%20there,%0D%0A' target='_blank'>
+  <a href='mailto:lucasbbs@live.fr?subject=Hello,%20Lucas&body=Hello,%20there!%0D%0A' target='_blank'>
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
       
@@ -112,8 +112,7 @@
       <tr><td>Adept Time Backend</td><td><img src="https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4/project/d4c32d65-72fb-4fc9-ad2e-229e2c8709aa.svg"/></td></tr>
       <tr><td>Head Hunter Social Backend</td><td><img src="https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4/project/b53fd1c8-edaa-4a2f-b91d-bd2ec42d8503.svg"/></td></tr>
     </table>
-
-    Since I started working at Goco, my overall working hours accounts for [![wakatime](https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4.svg)](https://wakatime.com/@9650e143-10c0-40dd-92a2-cf7e682e7fa4)
+    <p>Since I started working at Goco, my overall working hours accounts for <img src="https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4.svg" /></p>
 </details>
 <details>
   <summary>Github Statiscs</summary>
