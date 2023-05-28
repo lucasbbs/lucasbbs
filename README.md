@@ -1,7 +1,3 @@
-# Blog posts
-<!-- ARTICLES:START -->
-<!-- ARTICLES:END -->
-
 <!-- ![Snake animation](https://github.com/lucasbbs/lucasbbs/blob/output/github-contribution-grid-snake.svg) -->
 <div align='center'>
 <!--     <img src='https://github.com/lucasbbs/lucasbbs/assets/45081920/132b6ef9-ceae-4209-8c9b-e1b8fceda949' width="450"><br> -->
@@ -159,3 +155,6 @@
   </a>
 </div>
 </details>
+    
+<!-- ARTICLES:START -->
+<!-- ARTICLES:END -->
