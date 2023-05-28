@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/rafaballerini2/lucasbbs/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucasbbs/lucasbbs/blob/output/github-contribution-grid-snake.svg)
 <div align='center'>
 <!--     <img src='https://github.com/lucasbbs/lucasbbs/assets/45081920/132b6ef9-ceae-4209-8c9b-e1b8fceda949' width="450"><br> -->
     <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&height=100&lines=Hello+Friend%2C;I+am+a+Full+Stack+Cloud+Engineer;at+Goco%2C+Denmark" alt="Typing SVG" />
