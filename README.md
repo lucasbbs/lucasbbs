@@ -1,6 +1,6 @@
 # Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- ARTICLES:START -->
+<!-- ARTICLES:END -->
 
 <!-- ![Snake animation](https://github.com/lucasbbs/lucasbbs/blob/output/github-contribution-grid-snake.svg) -->
 <div align='center'>
