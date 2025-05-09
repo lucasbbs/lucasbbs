@@ -126,12 +126,12 @@
         </a>
     </div>
 </details>
-<details>
+<!-- <details>
   <summary>Language Statiscs</summary>
     <div align="center">
         <img src="https://wakatime.com/share/@lucasbbs/46b36f0c-1043-4dc6-b3b4-3cd785b0fc76.svg" height="450" />
     </div>
-  </details>
+  </details> -->
 <details>
   <summary>Projects Statiscs</summary>
     <table> 
