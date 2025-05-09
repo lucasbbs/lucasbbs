@@ -145,7 +145,7 @@
     </table>
     <p>Since I started working at Goco, my overall working hours accounts for <img src="https://wakatime.com/badge/user/9650e143-10c0-40dd-92a2-cf7e682e7fa4.svg" /></p>
 </details>
-<details>
+<!-- <details>
   <summary>Github Statiscs</summary>
     <table>
 <div align="center">
@@ -154,7 +154,7 @@
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbbs&layout=compact&langs_count=10&theme=react&bg_color=0D1117"/>
   </a>
 </div>
-</details>
+</details> -->
     
 <!-- ARTICLES:START -->
 <!-- ARTICLES:END -->
