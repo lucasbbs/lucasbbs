@@ -5,7 +5,7 @@
 <!--    <img src="https://github.com/lucasbbs/lucasbbs/blob/1b994ffa58a6a0930e2e7933fb3914847a656ef3/programming.gif" alt="programming"/> -->
     <p align='center'>
   
-  <a target='_blank' href="https://www.linkedin.com/in/lucas-breno-noronha-braga/">
+  <a target='_blank' href="https://www.linkedin.com/in/Lucas-in-Canada/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a target='_blank' href="https://vk.com/lucasbbs">
