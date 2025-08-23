@@ -11,7 +11,7 @@
   <a target='_blank' href="https://vk.com/lucasbbs">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />            
   </a>&nbsp;&nbsp;
-  <a target='_blank' href="https://wa.me/556183499994?text=Hello,+Lucas,">
+  <a target='_blank' href="https://wa.me/12267247739?text=Hello,+Lucas,">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />            
   </a>&nbsp;&nbsp;
   <a href='mailto:lucasbbs@live.fr?subject=Hello,%20Lucas&body=Hello,%20there!%0D%0A' target='_blank'>
